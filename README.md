@@ -13,7 +13,7 @@
 ### À propos de moi 👤
 
 - 🚀 Je contribue actuellement à des projets innovants
-- 🏢 Tous mes projets sont disponibles sur [egopass.fr](https://egopass.fr/)
+- 🏢 Tous mes projets sont disponibles sur https://egomania1.vercel.app/
 - 💬 Posez-moi des questions sur **Python, Node, Java, frameworks**
 - 📧 Pour me contacter : kelian.luye@gmail.com | **[@sbah13](https://discord.com)** sur Discord
 
