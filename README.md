@@ -66,4 +66,15 @@ Retrouvez tous mes projets sur mon site personnel ou directement sur mon profil 
 
 ---
 
+## 👥 Me soutenir
+
+<div align="center">
+
+[![Follow](https://img.shields.io/badge/Me%20Suivre-egomania1-blue?style=for-the-badge&logo=github)](https://github.com/egomania1)
+[![Sponsor](https://img.shields.io/badge/Parrainer-egomania1-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/egomania1)
+
+</div>
+
+---
+
 *Dernière mise à jour: Avril 2026* ⏰
