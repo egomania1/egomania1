@@ -17,7 +17,7 @@
 - 💬 Posez-moi des questions sur **Python, Node, Java, frameworks**
 - 📧 Pour me contacter : kelian.luye@gmail.com | **[@sbah13](https://discord.com)** sur Discord
 
-**Développeur Fullstack | EGOMANIA**
+**APPRENDRE | EGOMANIA**
 
 📍 PARIS, France  
 ⏰ UTC+1
