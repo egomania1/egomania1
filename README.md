@@ -17,7 +17,7 @@
 - 💬 Posez-moi des questions sur **Python, Node, Java, frameworks**
 - 📧 Pour me contacter : kelian.luye@gmail.com | **[@sbah13](https://discord.com)** sur Discord
 
-**Développeur Fullstack | El crackito**
+**Développeur Fullstack | EGOMANIA**
 
 📍 PARIS, France  
 ⏰ UTC+1
@@ -63,6 +63,7 @@
 ## 📌 Projets épinglés
 
 Retrouvez tous mes projets sur mon site personnel ou directement sur mon profil GitHub!
+https://egomania1.vercel.app/
 
 ---
 
