@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile views]
+![Profile views]20000000000000000000000000000000
 [![GitHub followers](https://img.shields.io/github/followers/egomania1?style=social&label=Follow)](https://github.com/egomania1)
 
 </div>
