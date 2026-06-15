@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=egomania1&label=Vues&color=0e75b6&style=flat)
+![Profile views]
 [![GitHub followers](https://img.shields.io/github/followers/egomania1?style=social&label=Follow)](https://github.com/egomania1)
 
 </div>
@@ -16,7 +16,7 @@ Je conçois des interfaces immersives avec Three.js, WebGL et de l'IA intégrée
 
 - 🎓 BTS SIO — option SLAM (Solutions Logicielles et Applications Métiers)
 - 💼 Disponible pour un **stage ou une alternance**
-- 🌐 Portfolio : [egomania1.vercel.app](https://egomania1.vercel.app/)
+- 🌐 Portfolio : 
 - 📧 Contact : kelian.luye@gmail.com
 
 ---
