@@ -2,7 +2,7 @@
 
 <div align="center">
 
-dev dev dev dev dev dev
+
 [![GitHub followers](https://img.shields.io/github/followers/egomania1?style=social&label=Follow)](https://github.com/egomania1)
 
 </div>
