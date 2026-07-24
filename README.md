@@ -17,7 +17,7 @@ Je conçois des interfaces immersives avec Three.js, WebGL et de l'IA intégrée
 - 🎓 BTS SIO — option SLAM (Solutions Logicielles et Applications Métiers)
 - 💼 Disponible pour un **stage ou une alternance**
 - 🌐 Portfolio : 
-- 📧 Contact : kelian.luye@gmail.com
+- 📧 Contact : 
 
 ---
 
