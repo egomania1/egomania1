@@ -16,8 +16,8 @@ Je conçois des interfaces immersives avec Three.js, WebGL et de l'IA intégrée
 
 - 🎓 BTS SIO — option SLAM (Solutions Logicielles et Applications Métiers)
 - 💼 Disponible pour un **stage ou une alternance**
-- 🌐 Portfolio : 
-- 📧 Contact : 
+- 🔗 LinkedIn : [kelian-luye](https://www.linkedin.com/in/kelian-luye/)
+- 📧 Contact : kelian.luye@gmail.com
 
 ---
 
@@ -46,6 +46,8 @@ Je conçois des interfaces immersives avec Three.js, WebGL et de l'IA intégrée
 | 🔒 **Novail IA** | Plateforme de cybersécurité automatisée — WebGL / Three.js | [GitHub](https://github.com/egomania1/Novail-ia-) |
 | 🤖 **NotAIL** | Application de notes intelligentes propulsée par l'IA | [GitHub](https://github.com/egomania1/notail-ia-) |
 | 📝 **Blog Dev** | Blog développé en PHP | [GitHub](https://github.com/egomania1/BLOG-DEV1) |
+| 🕵️ **Reek** | Scanner forensique anti-cheat pour Windows (35 sections de détection, artefacts natifs Windows) | [GitHub](https://github.com/egomania1/reek) |
+| 🎵 **APP SON** | Lecteur de musique desktop (Electron + React + Vite), vinyle animé et visualiseur audio | [GitHub](https://github.com/egomania1/rev-son)  |
 
 ---
 
@@ -59,4 +61,6 @@ Je conçois des interfaces immersives avec Three.js, WebGL et de l'IA intégrée
 
 ---
 
-📍 Paris, France · *Dernière mise à jour : Avril 2026*
+
+
+📍 Paris, France · *Dernière mise à jour : Août 2026*
