@@ -45,7 +45,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=egomania1&show_icons=true&count_private=true&hide_border=true&bg_color=0a0b10&title_color=b19eef&icon_color=21ecb1&text_color=f5f7ff&ring_color=7c6cff" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=egomania1&hide_border=true&background=0a0b10&stroke=0a0b10&ring=7c6cff&fire=ff5f91&currStreakLabel=b19eef&sideLabels=f5f7ff&currStreakNum=f5f7ff&sideNums=f5f7ff&dates=9ca5c0" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.vercel.app/?user=egomania1&hide_border=true&background=0a0b10&stroke=0a0b10&ring=7c6cff&fire=ff5f91&currStreakLabel=b19eef&sideLabels=f5f7ff&currStreakNum=f5f7ff&sideNums=f5f7ff&dates=9ca5c0" alt="GitHub streak" />
 
 <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=egomania1&layout=compact&hide_border=true&bg_color=0a0b10&title_color=b19eef&text_color=f5f7ff&langs_count=8" alt="Top languages" />
 
@@ -77,6 +77,8 @@ Portfolio personnel — hero animé en WebGL (Three.js), horloge/météo live, g
 ## 📈 Activité GitHub
 
 <div align="center">
+
+![@egomania1](https://img.shields.io/badge/@egomania1-0a0b10?style=flat-square&color=7c6cff&labelColor=0a0b10)
 
 <img src="https://ghchart.rshah.org/7c6cff/egomania1" alt="GitHub contribution calendar" />
 
