@@ -1,66 +1,88 @@
-# Salut, je suis ego 👋
-
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/224467124?v=4" width="120" alt="ego avatar" />
 
-[![GitHub followers](https://img.shields.io/github/followers/egomania1?style=social&label=Follow)](https://github.com/egomania1)
+<h1>Salut, je suis ego 👋</h1>
+
+<a href="https://github.com/egomania1">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B19EFF&center=true&vCenter=true&width=560&lines=D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+BTS+SIO+%E2%80%94+SLAM;Interfaces+immersives+%3A+Three.js+%2B+WebGL;Toujours+en+train+de+coder+un+truc" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=egomania1&color=7c6cff&style=flat-square&label=Vues+du+profil)](https://github.com/egomania1)
+[![GitHub followers](https://img.shields.io/github/followers/egomania1?style=flat-square&color=7c6cff&labelColor=0a0b10)](https://github.com/egomania1?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kelian--luye-7c6cff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0b10)](https://www.linkedin.com/in/kelian-luye/)
+[![Email](https://img.shields.io/badge/Contact-kelian.luye%40gmail.com-7c6cff?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0b10)](mailto:kelian.luye@gmail.com)
 
 </div>
 
----
+<br/>
 
-### À propos de moi
+## 🧭 À propos de moi
 
-Étudiant en **BTS SIO** à Paris, passionné par le développement web et l'IA.
-Je conçois des interfaces immersives avec Three.js, WebGL et de l'IA intégrée.
+> L'art du code — je conçois des interfaces immersives et je cherche toujours le prétexte pour y glisser un peu de 3D.
 
-- 🎓 BTS SIO — option SLAM (Solutions Logicielles et Applications Métiers)
-- 💼 Disponible pour un **stage ou une alternance**
-- 🔗 LinkedIn : [kelian-luye](https://www.linkedin.com/in/kelian-luye/)
-- 📧 Contact : kelian.luye@gmail.com
+- 🎓 **BTS SIO**, option SLAM (Solutions Logicielles et Applications Métiers) — Paris
+- 🧩 Développeur **Fullstack**, orienté web immersif (Three.js / WebGL) et projets IA
+- 💼 **Disponible pour un stage ou une alternance**
+- 📍 Paris, France
 
----
+<br/>
 
-### Langages & Outils
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-### Projets
-
-| Projet | Description | Lien |
-|--------|-------------|------|
-| 🌳 **Arbadon** | Site de reforestation et don écologique — HTML/CSS/JS | [GitHub](https://github.com/egomania1/Arbadon) |
-| 🔒 **Novail IA** | Plateforme de cybersécurité automatisée — WebGL / Three.js | [GitHub](https://github.com/egomania1/Novail-ia-) |
-| 🤖 **NotAIL** | Application de notes intelligentes propulsée par l'IA | [GitHub](https://github.com/egomania1/notail-ia-) |
-| 📝 **Blog Dev** | Blog développé en PHP | [GitHub](https://github.com/egomania1/BLOG-DEV1) |
-| 🕵️ **Reek** | Scanner forensique anti-cheat pour Windows (35 sections de détection, artefacts natifs Windows) | [GitHub](https://github.com/egomania1/reek) |
-| 🎵 **APP SON** | Lecteur de musique desktop (Electron + React + Vite), vinyle animé et visualiseur audio | [GitHub](https://github.com/egomania1/rev-son)  |
-
----
-
-### Activité GitHub
+## 🛠️ Langages & Outils
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=egomania1&bg_color=000000&color=b19eef&line=b19eef&point=ffffff&area=true)
+<img src="https://skillicons.dev/icons?i=html,css,js,threejs,php,python,mysql,git,figma,vscode&theme=dark" alt="Skill icons" />
 
 </div>
 
----
+<br/>
 
+## 📊 Statistiques GitHub
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=egomania1&show_icons=true&count_private=true&hide_border=true&bg_color=0a0b10&title_color=b19eef&icon_color=21ecb1&text_color=f5f7ff&ring_color=7c6cff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=egomania1&hide_border=true&background=0a0b10&stroke=0a0b10&ring=7c6cff&fire=ff5f91&currStreakLabel=b19eef&sideLabels=f5f7ff&currStreakNum=f5f7ff&sideNums=f5f7ff&dates=9ca5c0" alt="GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egomania1&layout=compact&hide_border=true&bg_color=0a0b10&title_color=b19eef&text_color=f5f7ff&langs_count=8" alt="Top languages" />
+
+</div>
+
+<br/>
+
+## 🚀 Projets
+
+| Projet | Description | Stack |
+|---|---|---|
+| 🌳 [**Arbadon**](https://github.com/egomania1/Arbadon) | Site de reforestation et don écologique | `HTML` `CSS` `JS` |
+| 🔒 [**Novail IA**](https://github.com/egomania1/Novail-ia-) | Plateforme de cybersécurité automatisée | `WebGL` `Three.js` |
+| 🤖 [**NotAIL**](https://github.com/egomania1/notail-ia-) | Application de notes intelligentes propulsée par l'IA | `IA` |
+| 📝 [**Blog Dev**](https://github.com/egomania1/BLOG-DEV1) | Blog développé en PHP | `PHP` |
+| 🕵️ [**Reek**](https://github.com/egomania1/reek) | Scanner forensique anti-cheat pour Windows — 35 sections de détection, artefacts natifs Windows | `C#` `Windows` |
+| 🎵 [**APP SON**](https://github.com/egomania1/rev-son) | Lecteur de musique desktop, vinyle animé et visualiseur audio | `Electron` `React` `Vite` |
+
+<br/>
+
+## 📈 Activité GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=egomania1&bg_color=0a0b10&color=b19eef&line=b19eef&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/egomania1/egomania1/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/egomania1/egomania1/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 📍 Paris, France · *Dernière mise à jour : Août 2026*
+
+</div>
