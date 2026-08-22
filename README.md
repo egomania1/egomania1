@@ -55,14 +55,90 @@
 
 ## 🚀 Projets
 
-| Projet | Description | Stack |
-|---|---|---|
-| 🌳 [**Arbadon**](https://github.com/egomania1/Arbadon) | Site de reforestation et don écologique | `HTML` `CSS` `JS` |
-| 🔒 [**Novail IA**](https://github.com/egomania1/Novail-ia-) | Plateforme de cybersécurité automatisée | `WebGL` `Three.js` |
-| 🤖 [**NotAIL**](https://github.com/egomania1/notail-ia-) | Application de notes intelligentes propulsée par l'IA | `IA` |
-| 📝 [**Blog Dev**](https://github.com/egomania1/BLOG-DEV1) | Blog développé en PHP | `PHP` |
-| 🕵️ [**Reek**](https://github.com/egomania1/reek) | Scanner forensique anti-cheat pour Windows — 35 sections de détection, artefacts natifs Windows | `C#` `Windows` |
-| 🎵 [**APP SON**](https://github.com/egomania1/rev-son) | Lecteur de musique desktop, vinyle animé et visualiseur audio | `Electron` `React` `Vite` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌳 Arbadon**
+<br/>
+![Repo privé](https://img.shields.io/badge/repo-privé-21ecb1?style=flat-square&labelColor=0a0b10)
+<br/>
+Site de reforestation et don écologique.
+<br/>
+![HTML](https://img.shields.io/badge/HTML-21ecb1?style=flat-square&logo=html5&logoColor=0a0b10&labelColor=0a0b10)
+![CSS](https://img.shields.io/badge/CSS-21ecb1?style=flat-square&logo=css3&logoColor=0a0b10&labelColor=0a0b10)
+![JS](https://img.shields.io/badge/JS-21ecb1?style=flat-square&logo=javascript&logoColor=0a0b10&labelColor=0a0b10)
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 Novail IA**
+<br/>
+![Repo privé](https://img.shields.io/badge/repo-privé-ff5f91?style=flat-square&labelColor=0a0b10)
+<br/>
+Plateforme de cybersécurité automatisée.
+<br/>
+![WebGL](https://img.shields.io/badge/WebGL-ff5f91?style=flat-square&labelColor=0a0b10)
+![Three.js](https://img.shields.io/badge/Three.js-ff5f91?style=flat-square&logo=threedotjs&logoColor=0a0b10&labelColor=0a0b10)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 NotAIL**
+<br/>
+![Repo privé](https://img.shields.io/badge/repo-privé-4cc9f0?style=flat-square&labelColor=0a0b10)
+<br/>
+Application de notes intelligentes propulsée par l'IA.
+<br/>
+![IA](https://img.shields.io/badge/IA-4cc9f0?style=flat-square&labelColor=0a0b10)
+![JS](https://img.shields.io/badge/JS-4cc9f0?style=flat-square&logo=javascript&logoColor=0a0b10&labelColor=0a0b10)
+
+</td>
+<td width="50%" valign="top">
+
+**📝 Blog Dev**
+<br/>
+![Repo privé](https://img.shields.io/badge/repo-privé-ffb86c?style=flat-square&labelColor=0a0b10)
+<br/>
+Blog développé en PHP.
+<br/>
+![PHP](https://img.shields.io/badge/PHP-ffb86c?style=flat-square&logo=php&logoColor=0a0b10&labelColor=0a0b10)
+![SQL](https://img.shields.io/badge/SQL-ffb86c?style=flat-square&logo=mysql&logoColor=0a0b10&labelColor=0a0b10)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🕵️ Reek**
+<br/>
+![Repo privé](https://img.shields.io/badge/repo-privé-7c6cff?style=flat-square&labelColor=0a0b10)
+<br/>
+Scanner forensique anti-cheat pour Windows — 35 sections de détection, artefacts natifs Windows.
+<br/>
+![C#](https://img.shields.io/badge/C%23-7c6cff?style=flat-square&logo=csharp&logoColor=0a0b10&labelColor=0a0b10)
+![Windows](https://img.shields.io/badge/Windows-7c6cff?style=flat-square&logo=windows&logoColor=0a0b10&labelColor=0a0b10)
+
+</td>
+<td width="50%" valign="top">
+
+**🎵 APP SON**
+<br/>
+![Repo privé](https://img.shields.io/badge/repo-privé-ffd166?style=flat-square&labelColor=0a0b10)
+<br/>
+Lecteur de musique desktop, vinyle animé et visualiseur audio.
+<br/>
+![Electron](https://img.shields.io/badge/Electron-ffd166?style=flat-square&logo=electron&logoColor=0a0b10&labelColor=0a0b10)
+![React](https://img.shields.io/badge/React-ffd166?style=flat-square&logo=react&logoColor=0a0b10&labelColor=0a0b10)
+![Vite](https://img.shields.io/badge/Vite-ffd166?style=flat-square&logo=vite&logoColor=0a0b10&labelColor=0a0b10)
+
+</td>
+</tr>
+</table>
+
+<sub>🔒 Repos actuellement privés — passe-les en public sur GitHub pour activer les liens.</sub>
 
 <br/>
 
