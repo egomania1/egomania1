@@ -59,7 +59,7 @@
 
 ### ✨ Portfolio
 
-Portfolio personnel inspiré de [haoqi.design](https://haoqi.design) — hero animé en WebGL (Three.js), horloge/météo live, grille de curseur, thème sombre bleu nuit & or.
+Portfolio personnel — hero animé en WebGL (Three.js), horloge/météo live, grille de curseur, thème sombre bleu nuit & or.
 
 ![Next.js](https://img.shields.io/badge/Next.js-D4AF37?style=for-the-badge&logo=nextdotjs&logoColor=050B2E&labelColor=050B2E)
 ![React](https://img.shields.io/badge/React-2A4CFF?style=for-the-badge&logo=react&logoColor=white&labelColor=050B2E)
