@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,threejs,php,python,mysql,git,figma,vscode&theme=dark" alt="Skill icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,php,python,fastapi,mysql,supabase,git,figma,vscode&theme=dark" alt="Skill icons" />
 
 </div>
 
@@ -45,7 +45,6 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=kelldev1&show_icons=true&count_private=true&hide_border=true&bg_color=0a0b10&title_color=b19eef&icon_color=21ecb1&text_color=f5f7ff&ring_color=7c6cff" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.vercel.app/?user=kelldev1&hide_border=true&background=0a0b10&stroke=0a0b10&ring=7c6cff&fire=ff5f91&currStreakLabel=b19eef&sideLabels=f5f7ff&currStreakNum=f5f7ff&sideNums=f5f7ff&dates=9ca5c0" alt="GitHub streak" />
 
 <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=kelldev1&layout=compact&hide_border=true&bg_color=0a0b10&title_color=b19eef&text_color=f5f7ff&langs_count=8" alt="Top languages" />
 
@@ -53,34 +52,21 @@
 
 <br/>
 
-## 🚀 Projet phare
+## 🚀 Projets
 
-<div align="center">
+| Projet | Description | Stack |
+|---|---|---|
+| [**reiim**](https://github.com/kelldev1/reiim) · [démo](https://reiim.vercel.app) | Planificateur de devoirs en glisser-déposer pour collégiens et lycéens, avec assistance IA (exercices, cartes mentales, flashcards), amis et partage en temps réel. | React · TypeScript · Supabase (Postgres, Auth, RLS, Edge Functions) |
+| [**tracer**](https://github.com/kelldev1/tracer) · [démo](https://tracer-ego2.vercel.app) | Plateforme OSINT qui agrège plus de 10 sources publiques (WHOIS, DNS, Shodan, VirusTotal…) en une requête. Authentification par sessions et rôles. | React · FastAPI · SQLite |
+| [**devmah**](https://github.com/kelldev1/BLOG-DEV1) | Blog communautaire dev et cybersécurité en PHP MVC sans framework : articles, tags, favoris, notifications. | PHP · MySQL · Docker |
 
-### ✨ Portfolio
-
-Portfolio personnel — hero animé en WebGL (Three.js), horloge/météo live, grille de curseur, thème sombre bleu nuit & or.
-
-![Next.js](https://img.shields.io/badge/Next.js-D4AF37?style=for-the-badge&logo=nextdotjs&logoColor=050B2E&labelColor=050B2E)
-![React](https://img.shields.io/badge/React-2A4CFF?style=for-the-badge&logo=react&logoColor=white&labelColor=050B2E)
-![TypeScript](https://img.shields.io/badge/TypeScript-D4AF37?style=for-the-badge&logo=typescript&logoColor=050B2E&labelColor=050B2E)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-2A4CFF?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=050B2E)
-![Three.js](https://img.shields.io/badge/Three.js-D4AF37?style=for-the-badge&logo=threedotjs&logoColor=050B2E&labelColor=050B2E)
-
-[![Voir le site](https://img.shields.io/badge/🔗_Voir_le_site-2A4CFF?style=for-the-badge&labelColor=050B2E)](https://portfolio-ego2.vercel.app)
-[![Voir le code](https://img.shields.io/badge/💻_Voir_le_code-D4AF37?style=for-the-badge&labelColor=050B2E)](https://github.com/kelldev1/portfolio)
-
-</div>
+🔗 **Portfolio complet : [kelldev1.github.io](https://kelldev1.github.io)**
 
 <br/>
 
 ## 📈 Activité GitHub
 
 <div align="center">
-
-![@kelldev1](https://img.shields.io/badge/@kelldev1-0a0b10?style=flat-square&color=7c6cff&labelColor=0a0b10)
-
-<img src="https://ghchart.rshah.org/7c6cff/kelldev1" alt="GitHub contribution calendar" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kelldev1/kelldev1/output/github-contribution-grid-snake-dark.svg" />
@@ -91,8 +77,3 @@ Portfolio personnel — hero animé en WebGL (Three.js), horloge/météo live, g
 
 <br/>
 
-<div align="center">
-
-📍 Paris, France · *Dernière mise à jour : Août 2026*
-
-</div>
